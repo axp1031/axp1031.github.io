@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "welcome/index.html",
+    "href": "welcome/index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Instagram\n  \n  \n    \n     Email\n  \n\n\n\n\n\nWelcome to my website!\nI am Arya Patel, a student at Case Western Reserve University pursuing a BA in Biology and MPH with a concentration in population health research. I have had past research experience in laboratory work in improving Car-T cell therapy for lymphoma and applying it to solid tumors and bioinformatic studies using bacteriophage genomes. My current research interests include oncologic surgery outcomes and health disparities using big data.\nOn this website, you will find a selection of my research experiences and works. You will also find my CV.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Github\n  \n  \n    \n     Instagram\n  \n  \n    \n     Email\n  \n\n\n\n\n\nWelcome to my website!\nI am Arya Patel, a student at Case Western Reserve University pursuing a BA in Biology and MPH with a concentration in population health research. I have had past research experience in laboratory work in improving Car-T cell therapy for lymphoma and applying it to solid tumors and bioinformatic studies using bacteriophage genomes. My current research interests include oncologic surgery outcomes and health disparities using big data.\nOn this website, you will find a selection of my research experiences and works. You will also find my CV.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "blog/index.html#my-response-to-moving-to-a-world-beyond-p-0.05",
+    "href": "blog/index.html#my-response-to-moving-to-a-world-beyond-p-0.05",
+    "title": "My Blog",
+    "section": "My Response to Moving to a World Beyond “p < 0.05”",
+    "text": "My Response to Moving to a World Beyond “p &lt; 0.05”\n\n\n\n\n\nThis editorial allowed me to reflect on the strong push within the statistical community to move beyond the simplistic and often misleading reliance on the p-value threshold of 0.05 for determining “statistical significance” in scientific research. The editorial, introducing a special issue of The American Statistician, argues that the term “statistically significant” should be abandoned entirely because it has become meaningless and contributes to erroneous beliefs and poor decision-making.\nInstead of focusing solely on whether a p-value falls below an arbitrary threshold, the authors advocate for a more nuanced approach to statistical inference that emphasizes accepting uncertainty as inherent in research and embracing variation in effects. It also highlights the importance of being thoughtful in all aspects of research, from clearly defining objectives and considering multiple analysis techniques to understanding the scientific context and the practical importance of effect sizes. He advocates for being open through transparent reporting of all findings (regardless of p-values), sharing data and code, and recognizing the role of expert judgment, as well as being modest by acknowledging the limitations of statistical models and inferences, understanding that one study is rarely definitive, and encouraging replication.\nThe editorial highlights that this is not just about what not to do with p-values, but also about adopting many constructive “do’s.” These suggestions range from supplementing p-values with measures like s-values and second-generation p-values (SGPVs) to using analysis of credibility (AnCred) and focusing on false positive risk (FPR). Many authors emphasize reporting continuous p-values, effect sizes, and interval estimates, interpreted as compatibility intervals, rather than relying on dichotomous “significant” or “non-significant” labels.\nUltimately, my takeaway is a call for a fundamental shift towards “statistical thinking” over a mechanical application of p-value thresholds, where researchers communicate all their findings with their inherent uncertainty and are judged on the quality and effective communication of their science, not solely on their p-values. This transition requires institutional changes in how research is conducted, reported, reviewed, and taught. The editorial frames this as a necessary and potentially transformative move towards more reliable and reproducible science."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "More About Me",
+    "section": "",
+    "text": "Case Western Reserve University\n2022-present\nPursuing: BA in Biology, MPH, MD\nEpiscopal High School\n2019-2022\nValedictorian"
+  },
+  {
+    "objectID": "projects/index.html#education",
+    "href": "projects/index.html#education",
+    "title": "More About Me",
+    "section": "",
+    "text": "Case Western Reserve University\n2022-present\nPursuing: BA in Biology, MPH, MD\nEpiscopal High School\n2019-2022\nValedictorian"
+  },
+  {
+    "objectID": "projects/index.html#published-works",
+    "href": "projects/index.html#published-works",
+    "title": "More About Me",
+    "section": "Published Works",
+    "text": "Published Works\nFactors Associated with Time to Definitive Surgery for Sebaceous Carcinoma\nArya Patel, Omkar Pawar, Jeremy Bordeaux\nJournal: JAAD\nComparison of Acute and Late toxicities with Daily vs. Every-Other-Day Five Fraction Partial Breast Radiation Therapy\nSean M Parker, Ahmed Halima, Sudha Amarnath, Maria Claudia Moncaliano, Arya Patel, Connor Spera, Elizabeth Obi, Cole Billena, Zahraa Al-Hilli, Sheen Cherian, Rahul Tendulkar, Chirag Shah\nJournal: Journal: Pract Radiation Oncology\nNutrition, Obesity and Seborrheic Dermatitis: A Systematic Review\nE. Woolhiser, N. Keime, Isaac Weber, Arya Patel, Madeline Adelman, R. Dellavalle\nJournal: JMIR Dermatology"
+  },
+  {
+    "objectID": "projects/index.html#presentations-and-posters",
+    "href": "projects/index.html#presentations-and-posters",
+    "title": "More About Me",
+    "section": "Presentations and Posters",
+    "text": "Presentations and Posters\nGeospatial Impacts of Melanoma Stage at Diagnosis: A Systematic Review (poster)\nDakota Hitchcock ,Angela Loczi-Storm, Rebecca Bolen, Arya Patel, Robert Dellavalle MD PhD MSPH, Cory Dunnick MD\n\nAccepted to AMA summit and “AMA Research Challenge” symposium\nColorado Medical Society Annual Meeting in Breckenridge, CO: 2nd place in research excellence\n\nInvestigating TIGIT Blockade potential to enhance Car-T cell function on Solid Tumors\nCANSUR Symposium Oral Presentation\nPatel, A; Franklin, J;Das I.; Wald D.\nCharacterization and Annotation of novel Azotobacter bacteriophages\nSEA-PHAGES Symposium Poster Presentation\nPatel, A; Sun, T; Cunliffe O.; John J; Ward R\nThe Effect of Klebsiella Pneumoniae Endotoxins on Lung Derived Mesenchymal Stem Cell Bioenergetic Processes\nLouisiana Science Fair Poster Presentation \nPatel A., Rangaswamy R.\n\n1st place in Biomedical Sciences"
+  },
+  {
+    "objectID": "projects/index.html#other-publications",
+    "href": "projects/index.html#other-publications",
+    "title": "More About Me",
+    "section": "Other Publications",
+    "text": "Other Publications\n“Attending School as a Child with Cancer”\nRedTreeHouse\nMAY 2023-present \n\n“Pro Picks” centered around oncology topics to help guide parents whose children are cancer patients"
+  }
+]
